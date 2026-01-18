@@ -16,6 +16,9 @@ simplify control logic where possible,
 
 and better understand the internal datapath and control signals.
 
+# Microarchitecture
+[제목_없는_다이어그램.drawio.pdf](https://github.com/user-attachments/files/24693745/_._.drawio.pdf)
+
 # FPGA
 
 Target FPGA: Xilinx Zynq UltraScale+ (XZCU)
