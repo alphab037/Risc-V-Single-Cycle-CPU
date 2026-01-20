@@ -17,7 +17,7 @@ simplify control logic where possible,
 and better understand the internal datapath and control signals.
 
 # Microarchitecture
-<img width="748" height="770" alt="image" src="https://github.com/user-attachments/assets/4f718057-26a6-4f4b-a756-ca17b8fa0375" />
+<img width="736" height="759" alt="제목 없는 다이어그램 drawio" src="https://github.com/user-attachments/assets/d0e9bbd5-c3fd-4736-88eb-cae80ee433f1" />
 
 
 # FPGA
